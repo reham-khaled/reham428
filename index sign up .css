@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+ 
+}
+body{
+    height: 100%;
+}
+form{
+    padding: 10px 25px;
+    border: 1px solid gray;
+    margin: 250px 35%;
+    direction: rtl;
+
+}
+
+form .fa-xmark{
+    margin-right: 170px;
+}
+form .f1{
+    display: flex;
+    margin: 10px 15px;
+}
+
+.f1 .input1-1{
+    margin-right: 10px;
+}
+
+.f2 {
+    direction: rtl;
+}
+.f3{
+    direction: rtl;
+}
